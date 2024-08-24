@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sakibkhan665
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... python,html
+- 🌱 I’m currently learning ... python,html
+- 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ... fb.com/sakib665
 
 <!---
